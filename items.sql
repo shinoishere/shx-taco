@@ -7,6 +7,5 @@ INSERT INTO `items` (`name`, `label`, `weight`, `rare`, `can_remove`) VALUES
 	('shx_yosun', 'Yosun', 1, 0, 1),
 	('shx_fishtaco', 'Fish Taco', 1, 0, 1),
 	('shx_paketlenmistaco', 'Packaged Taco', 1, 0, 1),
-	('shx_paketlenmistaco', 'Packaged Taco', 1, 0, 1),
-	('1gr_roka', 'Roka', 1, 0, 1),
+	('1gr_roka', 'Roka', 1, 0, 1)
 ;
