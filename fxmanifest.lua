@@ -5,3 +5,5 @@ server_script "@mysql-async/lib/MySQL.lua"
 server_script "sv_taco.lua"
 
 client_script "cl_taco.lua"
+
+this_is_a_map 'yes'
